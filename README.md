@@ -9,8 +9,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <h1>Pokedéx</h1>
-Neste projeto de front e back você pode cadastrar um usuário e posteriormente logar com ele, podendo adicionar pokemons em seu registro, tudo isso fica guardado
-em um banco de dados no MySQL. 
+Neste projeto de front e back onde foi desenvolvido no framework laravel você pode cadastrar um usuário e posteriormente logar com ele, podendo adicionar e escolher  pokemons em seu registro, tudo isso fica guardado em um banco de dados no MySQL. Foi utilizado também a API "pokeAPI".
 
 ##LINK DO SITE
 
