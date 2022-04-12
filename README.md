@@ -13,4 +13,7 @@ http://127.0.0.1:8000/home
 Neste projeto de front e back você pode cadastrar um usuário e posteriormente logar com ele, podendo adicionar pokemons em seu registro, tudo isso fica guardado
 em um banco de dados no MySQL. 
 
+##LINK DO SITE
+http://127.0.0.1:8000/home
+
 
