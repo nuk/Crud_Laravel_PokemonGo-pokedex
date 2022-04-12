@@ -1,7 +1,6 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-##LINK DO SITE
-http://127.0.0.1:8000/home
+
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -14,6 +13,7 @@ Neste projeto de front e back você pode cadastrar um usuário e posteriormente 
 em um banco de dados no MySQL. 
 
 ##LINK DO SITE
+
 http://127.0.0.1:8000/home
 
 
